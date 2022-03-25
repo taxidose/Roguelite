@@ -1,4 +1,5 @@
 import pygame as pg
+
 from game.settings import Settings
 from game.spritesheet import SpriteSheet
 
